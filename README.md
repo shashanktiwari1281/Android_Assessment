@@ -1,6 +1,6 @@
 # Rick & Morty Character Explorer
 
-A modern, responsive Android application built for the **MageNative (CEDCOSS)** Android Developer Technical Assessment.
+A modern Android application built for Android Developer Technical Assessment.
 
 The app displays a list of Rick and Morty characters with dynamic search, live filtering, and offline-first caching using modern Android architecture components.
 
